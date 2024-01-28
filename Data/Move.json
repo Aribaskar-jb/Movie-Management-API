@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "director": "Frank Darabont"
+  },
+  {
+    "title": "The Godfather",
+    "genre": "Crime",
+    "year": 1972,
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "year": 1994,
+    "director": "Quentin Tarantino"
+  }
+]
